@@ -5,7 +5,7 @@
 损失函数是用来衡量模型模型预测的好坏。
 
 
->原理论，公式参考自google&bilibili
+>原理论，公式自bilibili & google
 ## 笔记：
 
 ![](/img/1.png)
